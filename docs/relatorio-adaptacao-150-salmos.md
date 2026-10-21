@@ -23,11 +23,16 @@ Os termos foram anotados em 124 ocorrências, distribuídas por 84 salmos: 2, 3,
 
 Distribuição das glosas parentéticas: 45 Tzedek, 29 Kadosh, 21 Tefillah, 13 Ruach, 10 Chesed, 5 Brachah e 1 Emunah.
 
+## Continuação da adaptação terminológica
+
+Nesta etapa adicional, foram adaptados nomes próprios bíblicos em mais 22 versículos, usando correspondências explícitas do vocabulário do site: Moisés → Moshé, Abraão → Avraham, Isaque → Yitzchak, Jacó → Yaakov, Israel → Yisrael, Judá → Yehudah, Efraim → Efrayim, Manassés → Menashe, Moabe → Moav, Amom → Amon, Assíria → Assur, Babilônia → Bavel, Siquém → Shechem e Egito → Mitsrayim. Formas que já correspondiam à transliteração indicada, como Edom e Naftali, foram mantidas. Também foram anotadas sete ocorrências de título messiânico como “ungido (Mashyach)” nos Salmos 2, 18, 20, 28, 84, 89 e 132. Essas anotações foram aplicadas onde a referência ao título era clara; o verbo “ungir” não foi alterado.
+
 ## Nomes e títulos divinos
 
 - “Senhor” foi adaptado para “YAHUAH” nas ocorrências em que o contexto indicava o Nome divino.
 - “Deus/deus” foi adaptado para “Elohim” quando se referia à divindade.
 - “Torah” e outros termos hebraicos já presentes no corpus foram preservados.
+- Nomes próprios e termos messiânicos adicionais foram adaptados somente quando a correspondência era explícita no glossário; nomes semelhantes a palavras comuns, como “sara” (verbo), não foram tratados como nomes próprios.
 - Ocorrências de “senhor” referentes a autoridades humanas foram mantidas em minúscula, como em Salmos 12:4, 45:11, 105:21 e 123:2.
 
 ## Revisão dos 150 salmos
