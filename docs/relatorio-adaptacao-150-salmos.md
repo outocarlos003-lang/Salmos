@@ -4,7 +4,7 @@
 
 A adaptação foi continuada em lotes, sempre na branch `adaptacao-conservadora-150-salmos`. A verificação estrutural abrangeu os 150 salmos e os 2.461 versículos. A estrutura dos 15 arquivos JSON, a numeração e o recurso de copiar cada salmo individualmente foram preservados.
 
-Na versão atual, 140 salmos contêm novas anotações terminológicas parentéticas ou notas explícitas de sentido; 10 salmos permanecem sem novas glosas nesta etapa: 8, 53, 70, 81, 83, 114, 121, 126, 131 e 137. Isso não significa que esses salmos estejam sem formas hebraicas: vários já contêm nomes como YAHUAH, Elohim, Yisrael, Yerushalayim ou outros termos do vocabulário.
+Na versão atual, 141 salmos contêm anotações terminológicas parentéticas; 9 salmos permanecem sem essas glosas: 53, 70, 81, 83, 114, 121, 126, 131 e 137. O Salmo 8 passou a receber a forma Kadosh conforme a referência musical do próprio Salmo 8. Isso não significa que esses salmos estejam sem formas hebraicas: vários já contêm nomes como YAHUAH, Elohim, Yisrael, Yerushalayim ou outros termos do vocabulário.
 
 ## Critério editorial
 
@@ -20,19 +20,19 @@ A redação portuguesa foi mantida sempre que possível. Em vez de substituir pa
 - louvor ou louvores (Hodayah)
 - Torah (instrução), quando o texto se refere à instrução divina.
 
-O inventário automatizado encontrou 182 glosas parentéticas dos termos hebraicos listados abaixo, distribuídas por 140 salmos. Além delas, foram incluídas duas notas explicativas de “Torah (instrução)” nos Salmos 1 e 19, totalizando 184 anotações terminológicas.
+A revisão do documento musical foi aplicada diretamente aos Salmos correspondentes, não como texto de música inserido, mas como referência para terminologia e formulações. Nesta rodada, foram alinhados aos materiais de referência os Salmos 8, 17, 18, 19 e 21. O Salmo 19 agora inclui as formas hebraicas explicitamente apresentadas na música de referência: ha'shamayim, ha'raqya, tamymah, amanah, yasharyim, barah, tahorah e emeth. O inventário das oito glosas principais abaixo soma 187 ocorrências. Há ainda duas notas “Torah (instrução)” e outras transliterações explícitas usadas nas referências musicais.
 
 | Termo | Ocorrências parentéticas |
 |---|---:|
 | Tzedek | 52 |
-| Kadosh | 36 |
+| Kadosh | 38 |
 | Tefillah | 22 |
-| Hodayah | 24 |
-| Chesed | 21 |
+| Hodayah | 25 |
+| Chesed | 22 |
 | Ruach | 13 |
 | Brachah | 11 |
-| Emunah | 3 |
-| **Total de glosas parentéticas** | **182** |
+| Emunah | 4 |
+| **Total das oito glosas principais** | **187** |
 
 ## Nomes e títulos divinos
 
@@ -53,4 +53,4 @@ As adaptações diretas de nomes divinos feitas anteriormente foram mantidas nos
 
 Esta é uma adaptação terminológica editorial, não uma nova tradução do hebraico nem uma revisão exegética independente de cada versículo. As transliterações e equivalências seguem o vocabulário fornecido pelo site, que observa que algumas formas são próprias da proposta do site e não são universais entre estudiosos.
 
-Na rodada mais recente, a revisão dos salmos restantes não identificou novas glosas com correspondência suficientemente direta. Foram, porém, padronizados nomes próprios conforme as formas hebraicas já usadas no projeto: “Jacó” → “Yaakov” nos Salmos 81 e 114, e “Judá” → “Yehudah” no Salmo 114. Os 10 salmos listados acima continuam elegíveis para revisão contextual adicional. Não se deve inventar uma equivalência apenas para que todos os salmos tenham uma nota.
+Na rodada mais recente, a revisão dos salmos restantes não identificou novas glosas com correspondência suficientemente direta. Foram, porém, padronizados nomes próprios conforme as formas hebraicas já usadas no projeto: “Jacó” → “Yaakov” nos Salmos 81 e 114, e “Judá” → “Yehudah” no Salmo 114. Os 9 salmos listados acima continuam elegíveis para revisão contextual adicional. Não se deve inventar uma equivalência apenas para que todos os salmos tenham uma nota.
