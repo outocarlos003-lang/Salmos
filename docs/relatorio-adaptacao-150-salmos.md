@@ -1,14 +1,21 @@
-# Relatório de adaptação conservadora dos 150 Salmos
+# Relatório de adaptação gradual dos 150 Salmos
 
 ## Critério editorial
 
-Os 150 salmos foram incluídos na verificação estrutural do corpus. A análise contextual direta nesta rodada foi concentrada nos salmos com correspondência explícita nas músicas de referência (3, 7, 8, 10, 17, 18 e 19). Alterações textuais foram limitadas aos termos explicitamente mapeados pelo vocabulário De Volta à Raiz e sustentados pelo contexto. As músicas não foram copiadas nem incorporadas aos salmos. Os documentos de referência permanecem separados.
+A revisão estrutural considera os 150 salmos. A adaptação textual é feita em lotes, priorizando correspondências nas músicas de referência e o vocabulário De Volta à Raiz. As músicas não são copiadas nem incorporadas aos salmos; os documentos de referência permanecem separados.
 
-Não foram substituídas automaticamente todas as ocorrências de “Senhor”, “Deus”, “lei” ou outros termos em todo o corpus: os materiais distinguem YAHUAH, Elohim, Adonai e outras formas, e o contexto de cada ocorrência pode variar.
+A terminologia usada inclui YAHUAH para o nome divino, Elohim para Deus e Torah para lei/instrução quando o contexto e as referências dão suporte. Como os documentos também distinguem Adonai e outras formas, as substituições são terminológicas, não uma nova tradução hebraica nem uma revisão exegética completa.
 
-## Alterações realizadas
+## Lotes concluídos
 
-Salmos com alterações textuais: 3, 7, 10, 17, 18, 19 (6 salmos).
+- **Lote inicial:** Salmos 3, 7, 10, 17, 18 e 19, com correspondência direta nas músicas de referência.
+- **Lote seguinte:** Salmos 21 a 30, com adaptação terminológica de nomes divinos. Os termos divinos foram tratados de modo consistente dentro deste lote, preservando a estrutura dos versículos.
+
+## Alterações acumuladas
+
+- **Salmos com alterações textuais:** 3, 7, 10, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 (16 salmos).
+- **Versículos com texto alterado:** 125.
+- **Salmos ainda sem alteração textual nesta etapa:** 1, 2, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 20, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150.
 
 | Salmo | Versículos alterados | Alterações principais |
 |---:|---|---|
@@ -18,21 +25,25 @@ Salmos com alterações textuais: 3, 7, 10, 17, 18, 19 (6 salmos).
 | 17 | 1, 6, 13, 14 | Senhor → YAHUAH; Deus → Elohim |
 | 18 | 1, 2, 3, 6, 13, 15, 18, 20, 21, 24, 28, 29, 30, 31, 32, 41, 46, 47, 49 | Senhor → YAHUAH; Deus → Elohim |
 | 19 | 1, 7, 8, 9, 14 | Deus → Elohim; Senhor → YAHUAH; lei do Senhor → Torah de YAHUAH |
-
-## Revisão dos 150 salmos
-
-- **Alterados:** 3, 7, 10, 17, 18, 19.
-- **Revisados e mantidos sem alteração textual:** 1, 2, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150.
-
-Os 144 salmos sem alteração textual nesta rodada não devem ser interpretados como uma validação exegética individual concluída. Permaneceram intactos porque não havia uma correspondência específica suficiente para autorizar substituições com segurança neste passe. Uma análise contextual individual de cada um deles ainda pode identificar adaptações justificáveis.
+| 21 | 1, 7, 9, 13 | Senhor → YAHUAH |
+| 22 | 1, 2, 8, 10, 19, 23, 26, 27, 28, 30 | Deus → Elohim; Senhor → YAHUAH |
+| 23 | 1, 6 | Senhor → YAHUAH |
+| 24 | 1, 3, 5, 6, 8, 10 | Senhor → YAHUAH; Deus → Elohim |
+| 25 | 1, 2, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 22 | Senhor → YAHUAH; Deus → Elohim |
+| 26 | 1, 2, 6, 8, 12 | Senhor → YAHUAH |
+| 27 | 1, 4, 6, 7, 8, 9, 10, 11, 13, 14 | Senhor → YAHUAH; Deus → Elohim |
+| 28 | 1, 5, 6, 7, 8 | Senhor → YAHUAH |
+| 29 | 1, 2, 3, 4, 5, 7, 8, 9, 10, 11 | Senhor → YAHUAH; Deus → Elohim |
+| 30 | 1, 2, 3, 4, 7, 8, 10, 12 | Senhor → YAHUAH; Deus → Elohim |
 
 ## Integridade estrutural
 
-- Mantida a organização original em 15 arquivos JSON, com 10 salmos por arquivo.
-- Mantidos os números dos salmos e dos versículos e a estrutura de cópia individual existente.
+- Os arquivos de dados mantêm os números originais dos salmos e dos versículos.
+- Os versículos e salmos continuam individualizados, preservando a estrutura de cópia individual do aplicativo.
 - Nenhum texto de música foi inserido nos salmos.
-- Os arquivos de referência não foram modificados nem incorporados ao conjunto de dados.
+- Os documentos de referência não foram alterados nem incorporados aos dados.
+- Os salmos não listados como alterados permanecem intactos nesta etapa.
 
-## Limite da verificação
+## Próximas etapas
 
-A adaptação foi conservadora e terminológica, não uma nova tradução hebraica nem uma revisão exegética verso a verso. A verificação estrutural abrangeu o conjunto de 150 salmos; a revisão contextual detalhada foi limitada aos salmos 3, 7, 8, 10, 17, 18 e 19. Os nomes divinos foram alterados apenas nos salmos com modelos musicais diretos (3, 7, 10, 17, 18 e 19). O Salmo 8 foi examinado, mas não alterado, porque a música de referência distingue YAHUAH e Adonai e não sustenta uma substituição mecânica de “Senhor”.
+A adaptação continuará em lotes sucessivos, verificando contexto e terminologia antes de editar cada grupo. Os salmos sem alterações não devem ser interpretados como revisão contextual individual já concluída. Cada lote deve ser validado e registrado aqui até que todos os 150 tenham sido avaliados e adaptados quando houver justificativa textual segura.
