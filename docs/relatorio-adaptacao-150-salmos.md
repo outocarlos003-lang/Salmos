@@ -54,3 +54,5 @@ As adaptações diretas de nomes divinos feitas anteriormente foram mantidas nos
 Esta é uma adaptação terminológica editorial, não uma nova tradução do hebraico nem uma revisão exegética independente de cada versículo. As transliterações e equivalências seguem o vocabulário fornecido pelo site, que observa que algumas formas são próprias da proposta do site e não são universais entre estudiosos.
 
 Na rodada mais recente, foram anotadas correspondências diretas nos Salmos 70 e 81. A presença de uma anotação em cada salmo não significa que a revisão esteja encerrada; as correspondências devem continuar sendo avaliadas conforme as fontes e o contexto. Foram, porém, padronizados nomes próprios conforme as formas hebraicas já usadas no projeto: “Jacó” → “Yaakov” nos Salmos 81 e 114, e “Judá” → “Yehudah” no Salmo 114. Os 9 salmos listados acima continuam elegíveis para revisão contextual adicional. Não se deve inventar uma equivalência apenas para que todos os salmos tenham uma nota.
+
+Na revisão textual complementar, foram corrigidos erros tipográficos no Salmo 83: “tiro” → “Tiro” e “incedeia” → “incendeia”; no Salmo 137:9, “nas pedra” → “nas pedras”.
