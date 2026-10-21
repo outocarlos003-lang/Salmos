@@ -45,8 +45,9 @@ As adaptações diretas de nomes divinos feitas anteriormente foram mantidas nos
 - 2.461 versículos.
 - Numeração dos versículos sequencial dentro de cada salmo.
 - Nenhum salmo vazio ou erro estrutural encontrado na verificação desta etapa.
-- Nenhum texto de música foi copiado para os salmos.
-- Os documentos de referência continuam separados.
+- O documento de músicas deve ser usado como referência comparativa para adaptar os próprios Salmos, especialmente onde há correspondências demonstráveis de vocabulário, estrutura ou conteúdo.
+- A adaptação deve ocorrer no texto dos Salmos; letras completas não são inseridas automaticamente, sem correspondência textual e justificativa editorial.
+- O documento de referência musical permanece disponível separadamente para consulta, sem ser tratado como alheio à adaptação.
 
 ## Limites e próximos passos
 
