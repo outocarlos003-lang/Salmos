@@ -4,7 +4,7 @@
 - Fonte preservada: os arquivos JSON existentes em `data/`, sem substituir a coletânea nem reescrever versículos.
 - Referências: documento de nomes De Volta à Raiz e documento de músicas fornecidos separadamente.
 - Alteração aplicada: substituição literal, sensível a maiúsculas, de `Senhor` por `YAHUAH` nos textos dos versículos, seguindo a forma preferida indicada no documento de nomes e o padrão recorrente das músicas.
-- Total: 791 substituições em 129 Salmos. Nenhum outro termo foi alterado deliberadamente. As formas minúsculas `senhor` foram preservadas.
+- Total: 791 substituições em 139 Salmos. Nenhum outro termo foi alterado deliberadamente. As formas minúsculas `senhor` foram preservadas.
 
 ## Salmos com alterações
 1–42, 44, 46–48, 50–51, 54–59, 62, 64, 66, 68–81, 83–150.
