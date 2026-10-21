@@ -1,55 +1,55 @@
-# Relatório de adaptação terminológica dos 150 Salmos
+# Relatório de adaptação terminológica gradual dos 150 Salmos
 
-## Escopo e estado atual
+## Estado desta etapa
 
-Os 150 salmos foram revisados em sequência, preservando a organização em 15 arquivos JSON, a numeração dos salmos e dos versículos e a função de copiar cada salmo individualmente. O conjunto contém 2.461 versículos. A revisão foi orientada pelo vocabulário De Volta à Raiz e pelas dez músicas de referência.
+A adaptação foi continuada em lotes, sempre na branch `adaptacao-conservadora-150-salmos`. A verificação estrutural abrangeu os 150 salmos e os 2.461 versículos. A estrutura dos 15 arquivos JSON, a numeração e o recurso de copiar cada salmo individualmente foram preservados.
 
-A adaptação foi feita em etapas. O corpus já continha várias formas hebraicas, como YAHUAH, Elohim, Yisrael e David. As alterações anteriores modificaram ocorrências terminológicas nos Salmos 3, 7, 10, 17, 18 e 19; a etapa seguinte acrescentou glosas parentéticas aos termos do vocabulário nos contextos em que eram aplicáveis. As músicas não foram copiadas nem incorporadas aos textos dos salmos, e os documentos de referência permanecem separados.
+Na versão atual, 126 salmos contêm novas anotações terminológicas parentéticas ou notas explícitas de sentido; 24 salmos permanecem sem novas glosas nesta etapa: 8, 12, 13, 14, 49, 53, 58, 60, 70, 81, 83, 91, 93, 114, 120, 121, 122, 124, 125, 126, 127, 131, 137 e 140. Isso não significa que esses salmos estejam sem formas hebraicas: vários já contêm nomes como YAHUAH, Elohim, Yisrael, Yerushalayim ou outros termos do vocabulário.
 
 ## Critério editorial
 
-A redação portuguesa foi preservada sempre que possível. Em vez de substituir indiscriminadamente palavras comuns por transliterações, a etapa de glossário mantém a palavra portuguesa e acrescenta o termo de referência entre parênteses na primeira ocorrência aplicável de cada categoria dentro de cada salmo. Isso reduz o risco de alterar o sentido poético ou confundir um título divino com uma autoridade humana.
+A redação portuguesa foi mantida sempre que possível. Em vez de substituir palavras automaticamente, foi acrescentada uma glosa entre parênteses quando o termo português e o contexto ofereciam uma correspondência razoavelmente direta com o glossário de De Volta à Raiz. Foram acrescentadas anotações como:
 
-As glosas utilizadas foram:
 - justiça (Tzedek)
-- misericórdia (Chesed)
+- misericórdia, benignidade ou compaixão (Chesed)
 - espírito (Ruach)
 - oração (Tefillah)
 - fé (Emunah)
 - santo (Kadosh)
-- bênção (Brachah)
+- bênção ou abençoado (Brachah)
+- louvor ou louvores (Hodayah)
+- Torah (instrução), quando o texto se refere à instrução divina.
 
-Os termos foram anotados em 124 ocorrências, distribuídas por 84 salmos: 2, 3, 4, 5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 20, 22, 23, 24, 25, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 45, 46, 47, 48, 50, 51, 54, 55, 57, 59, 61, 65, 66, 69, 71, 72, 73, 76, 77, 78, 79, 80, 82, 84, 85, 86, 88, 89, 94, 96, 97, 98, 99, 102, 103, 105, 106, 109, 111, 112, 118, 119, 129, 132, 133, 138, 139, 141, 142, 143, 145, 146.
+O inventário automatizado encontrou 164 glosas parentéticas dos termos hebraicos listados abaixo, distribuídas por 124 salmos. Além delas, foram incluídas duas notas explicativas de “Torah (instrução)” nos Salmos 1 e 19, totalizando 166 anotações terminológicas em 126 salmos.
 
-Distribuição das glosas parentéticas: 45 Tzedek, 29 Kadosh, 21 Tefillah, 13 Ruach, 10 Chesed, 5 Brachah e 1 Emunah.
-
-## Continuação da adaptação terminológica
-
-Nesta etapa adicional, foram adaptados nomes próprios bíblicos em mais 22 versículos, usando correspondências explícitas do vocabulário do site: Moisés → Moshé, Abraão → Avraham, Isaque → Yitzchak, Jacó → Yaakov, Israel → Yisrael, Judá → Yehudah, Efraim → Efrayim, Manassés → Menashe, Moabe → Moav, Amom → Amon, Assíria → Assur, Babilônia → Bavel, Siquém → Shechem e Egito → Mitsrayim. Formas que já correspondiam à transliteração indicada, como Edom e Naftali, foram mantidas. Também foram anotadas sete ocorrências de título messiânico como “ungido (Mashyach)” nos Salmos 2, 18, 20, 28, 84, 89 e 132. Essas anotações foram aplicadas onde a referência ao título era clara; o verbo “ungir” não foi alterado.
+| Termo | Ocorrências parentéticas |
+|---|---:|
+| Tzedek | 45 |
+| Kadosh | 34 |
+| Tefillah | 21 |
+| Hodayah | 21 |
+| Chesed | 20 |
+| Ruach | 13 |
+| Brachah | 9 |
+| Emunah | 1 |
+| **Total de glosas parentéticas** | **164** |
 
 ## Nomes e títulos divinos
 
-- “Senhor” foi adaptado para “YAHUAH” nas ocorrências em que o contexto indicava o Nome divino.
-- “Deus/deus” foi adaptado para “Elohim” quando se referia à divindade.
-- “Torah” e outros termos hebraicos já presentes no corpus foram preservados.
-- Nomes próprios e termos messiânicos adicionais foram adaptados somente quando a correspondência era explícita no glossário; nomes semelhantes a palavras comuns, como “sara” (verbo), não foram tratados como nomes próprios.
-- Ocorrências de “senhor” referentes a autoridades humanas foram mantidas em minúscula, como em Salmos 12:4, 45:11, 105:21 e 123:2.
+As adaptações diretas de nomes divinos feitas anteriormente foram mantidas nos contextos selecionados, incluindo “Senhor” → “YAHUAH” e “Deus” → “Elohim” quando a referência ao divino era clara. Distinções explícitas, como YAHUAH e Adonai, não foram apagadas por substituição mecânica. Nomes próprios foram mantidos ou adaptados conforme as formas presentes no vocabulário, sem alterar indiscriminadamente todos os nomes portugueses.
 
-## Revisão dos 150 salmos
+## Integridade estrutural verificada
 
-Todos os 150 salmos foram verificados quanto à presença de formas do vocabulário de referência. Todos contêm pelo menos uma forma hebraica identificada no conjunto de termos, nomes ou títulos usados pelo site, embora nem todos precisassem receber uma nova glosa parentética nesta etapa. Os 66 salmos sem glosas parentéticas novas nesta etapa não devem ser interpretados como traduções hebraicas revisadas verso a verso; as formas existentes foram mantidas quando não havia uma alteração adicional segura e necessária.
-
-## Verificação estrutural
-
-- 15 arquivos JSON de dados, com 10 salmos por arquivo.
-- 150 salmos numerados sequencialmente.
+- 15 arquivos JSON, com 10 salmos em cada arquivo.
+- 150 salmos em sequência.
 - 2.461 versículos.
-- Numeração sequencial dos versículos dentro de cada salmo.
-- Nenhum salmo vazio.
-- Nenhum texto das músicas incorporado aos dados dos salmos.
+- Numeração dos versículos sequencial dentro de cada salmo.
+- Nenhum salmo vazio ou erro estrutural encontrado na verificação desta etapa.
+- Nenhum texto de música foi copiado para os salmos.
 - Os documentos de referência continuam separados.
-- A estrutura usada pela função de copiar cada salmo individualmente foi preservada.
 
-## Limites
+## Limites e próximos passos
 
-Esta é uma adaptação terminológica editorial, não uma nova tradução do hebraico nem uma revisão exegética independente de cada versículo. As glosas entre parênteses indicam a forma terminológica do vocabulário fornecido; não afirmam que cada palavra portuguesa tenha equivalência semântica perfeita em todos os contextos. Quando a substituição direta poderia mudar o sentido, a redação portuguesa foi mantida.
+Esta é uma adaptação terminológica editorial, não uma nova tradução do hebraico nem uma revisão exegética independente de cada versículo. As transliterações e equivalências seguem o vocabulário fornecido pelo site, que observa que algumas formas são próprias da proposta do site e não são universais entre estudiosos.
+
+Os 24 salmos listados acima continuam elegíveis para revisão contextual adicional. Eles não receberam glosas novas nesta etapa porque não foi identificada uma correspondência suficientemente direta dentro das regras de anotação aplicadas. Não se deve inventar uma equivalência apenas para que todos os salmos tenham uma nota.
