@@ -1,0 +1,12 @@
+{
+  "name": "salmos-leitura-integral",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Página estática para leitura integral dos 150 Salmos em português.",
+  "scripts": {
+    "test": "node scripts/validate-data.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
