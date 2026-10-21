@@ -4,33 +4,44 @@ Aplicação web estática para leitura contínua dos 150 Salmos em português. T
 
 ## Executar localmente
 
+Requer Python 3 para servir os arquivos estáticos (ou qualquer servidor HTTP estático):
+
 ```bash
 python3 -m http.server 8000
 ```
 
-Abra http://localhost:8000. Não há dependências npm nem API externa em tempo de execução.
+Abra http://localhost:8000. Não há dependências de runtime nem API externa; os textos ficam armazenados localmente em `data/`. Para validar os dados com Node.js 18 ou superior:
+
+```bash
+npm test
+```
 
 ## Publicação
 
-No GitHub, acesse Settings → Pages → Deploy from a branch → `main` → `/ (root)`. O arquivo `.nojekyll` evita processamento desnecessário pelo Jekyll.
+No GitHub, acesse **Settings → Pages → Build and deployment → Deploy from a branch**, selecione `main` e a pasta `/(root)`. O arquivo `.nojekyll` evita processamento desnecessário pelo Jekyll.
 
-## Fonte, tradução e direitos
+## Fonte bíblica e termos de uso
 
-- Tradução identificada pela fonte: **João Ferreira de Almeida**, texto português indicado como domínio público.
-- Fonte: [pd-text-corpus](https://github.com/sangchy1972/pd-text-corpus), diretório `bibles/pt/books/psalms/chapters/`.
-- O README do projeto de origem declara a tradução portuguesa como domínio público; cada tradução do corpus tem licença própria. Consulte também [SOURCES.md](https://github.com/sangchy1972/pd-text-corpus/blob/main/SOURCES.md) antes de redistribuir.
-- Os textos são copiados para arquivos JSON locais versionados; a aplicação não depende da fonte remota para funcionar.
-- A licença GPL-3.0 já existente neste repositório permanece para o código do projeto. A licença do texto bíblico é independente.
+- **Tradução:** João Ferreira de Almeida, conforme identificada no corpus de origem.
+- **Fonte intermediária dos dados:** [pd-text-corpus](https://github.com/sangchy1972/pd-text-corpus), arquivo de cada capítulo em [bibles/pt/books/psalms/chapters](https://github.com/sangchy1972/pd-text-corpus/tree/main/bibles/pt/books/psalms/chapters).
+- **Fonte indicada pelo corpus:** [por-almeida.usfx.xml, no projeto open-bibles](https://github.com/seven1m/open-bibles/blob/master/por-almeida.usfx.xml).
+- **Direitos:** o README do corpus classifica João Ferreira de Almeida em português como **domínio público**. Consulte a documentação da fonte antes de redistribuir ou alterar a atribuição; a licença do texto bíblico é independente da licença do código.
+- **Licença do código deste repositório:** GNU GPL-3.0, conforme o arquivo `LICENSE`.
 
-## Validação e limitações
+Os textos estão copiados em arquivos JSON versionados no repositório, para que a leitura funcione sem consultar serviços externos em tempo de execução.
 
-O navegador verifica que existem exatamente 150 salmos sequenciais e que os versículos de cada salmo estão numerados continuamente desde 1. O botão copia somente o título e os versículos do salmo escolhido, com Clipboard API e fallback compatível quando permitido pelo navegador.
+## Integridade e validação
 
-A validação estrutural não equivale a uma colação editorial independente de cada palavra com uma edição impressa. Testes automatizados em navegadores reais e dispositivos móveis ainda devem ser executados pelo mantenedor; não se declara que esses testes foram executados.
+- Os dados são divididos em 15 arquivos JSON, com 10 salmos por arquivo.
+- A aplicação verifica em tempo de execução que existem 150 salmos sequenciais e que os versículos de cada salmo estão numerados continuamente a partir de 1.
+- `npm test` verifica a presença dos 150 salmos, a numeração sequencial dos salmos e versículos, textos não vazios e o total estrutural de 2.461 versículos.
+- O botão de cada salmo copia somente o título e os versículos daquele salmo, usando a Clipboard API e um fallback quando permitido pelo navegador.
+- A validação estrutural não comprova, por si só, a exatidão de cada palavra em relação a uma edição impressa. Não se declara concluída uma colação editorial independente nem testes automatizados em navegadores reais/dispositivos móveis.
 
-## Arquivos
+## Arquivos principais
 
 - `index.html`: página principal.
 - `styles.css`: estilo responsivo e acessível.
 - `app.js`: renderização, validação estrutural e cópia individual.
-- `data/salmos-001-010.json` até `data/salmos-141-150.json`: base local dividida em lotes de dez salmos.
+- `data/salmos-001-010.json` até `data/salmos-141-150.json`: base local.
+- `scripts/validate-data.js`: verificação estrutural executável com Node.js.
