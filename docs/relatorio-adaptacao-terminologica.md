@@ -84,7 +84,7 @@ Os 15 arquivos JSON foram preservados como estrutura de dados da aplicação. Pe
 | 57 | Nomes divinos: 8 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 58 | Nomes divinos: 3 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 59 | Nomes divinos: 13; Nomes próprios: 1 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
-| 60 | Nomes divinos: 5; Nomes próprios: 3 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
+| 60 | Nomes divinos: 5; Nomes próprios: 5 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 61 | Nomes divinos: 3 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 62 | Nomes divinos: 8 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 63 | Nomes divinos: 3 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
@@ -104,10 +104,10 @@ Os 15 arquivos JSON foram preservados como estrutura de dados da aplicação. Pe
 | 77 | Nomes divinos: 12; Termos espirituais: 2; Nomes próprios: 1 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 78 | Nomes divinos: 19; Escrituras e instrução: 2; Nomes próprios: 14; Termos espirituais: 1 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 79 | Nomes divinos: 5; Nomes próprios: 2 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
-| 80 | Nomes próprios: 3; Nomes divinos: 8 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
+| 80 | Nomes próprios: 4; Nomes divinos: 8 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 81 | Nomes divinos: 8; Nomes próprios: 6 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 82 | Nomes divinos: 4 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
-| 83 | Nomes divinos: 6; Nomes próprios: 3 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
+| 83 | Nomes divinos: 6; Nomes próprios: 4 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 84 | Nomes divinos: 15 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 85 | Nomes divinos: 6 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 86 | Nomes divinos: 16 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
@@ -132,7 +132,7 @@ Os 15 arquivos JSON foram preservados como estrutura de dados da aplicação. Pe
 | 105 | Nomes divinos: 8; Nomes próprios: 9 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 106 | Nomes divinos: 15; Nomes próprios: 6; Termos espirituais: 1 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 107 | Nomes divinos: 13 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
-| 108 | Nomes divinos: 7; Nomes próprios: 2 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
+| 108 | Nomes divinos: 7; Nomes próprios: 4 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 109 | Nomes divinos: 9 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 110 | Nomes divinos: 4 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
 | 111 | Nomes divinos: 5 | Aplicação das formas terminológicas de referência nas ocorrências deste Salmo. |
@@ -198,10 +198,17 @@ Os 15 arquivos JSON foram preservados como estrutura de dados da aplicação. Pe
 | lei do Senhor → Torah de YAHUAH | 3 |
 | meu Senhor → Adonai | 1 |
 | Moabe → Moav | 3 |
+| Manassés → Menashe | 3 |
+| Amom → Amon | 1 |
+| Siquém → Shechem | 2 |
 | Moisés → Moshé | 7 |
 | Sara → Sarah | 5 |
 | Senhor / meu Senhor → YAHUAH / Adonai | 4 |
 | Senhor → YAHUAH | 779 |
+
+## Revisão complementar dos documentos de referência
+
+A conferência do vocabulário De Volta à Raiz e das músicas usadas como exemplos identificou três nomes próprios que ainda estavam na forma portuguesa: Manassés, Amom e Siquém. Foram ajustados para Menashe (Salmos 60:7, 80:2 e 108:8), Amon (Salmos 83:7) e Shechem (Salmos 60:6 e 108:7). Naftali e Edom já correspondiam às formas do vocabulário de referência. As músicas foram usadas apenas como exemplos de grafia e uso terminológico; seus versos não foram incorporados aos Salmos.
 
 ## Limites da auditoria
 
