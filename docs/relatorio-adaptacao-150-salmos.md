@@ -4,7 +4,7 @@
 
 A adaptação foi continuada em lotes, sempre na branch `adaptacao-conservadora-150-salmos`. A verificação estrutural abrangeu os 150 salmos e os 2.461 versículos. A estrutura dos 15 arquivos JSON, a numeração e o recurso de copiar cada salmo individualmente foram preservados.
 
-Na versão atual, 132 salmos contêm novas anotações terminológicas parentéticas ou notas explícitas de sentido; 18 salmos permanecem sem novas glosas nesta etapa: 1, 8, 12, 19, 49, 53, 70, 81, 83, 91, 114, 120, 121, 124, 126, 127, 131 e 137. Isso não significa que esses salmos estejam sem formas hebraicas: vários já contêm nomes como YAHUAH, Elohim, Yisrael, Yerushalayim ou outros termos do vocabulário.
+Na versão atual, 137 salmos contêm novas anotações terminológicas parentéticas ou notas explícitas de sentido; 13 salmos permanecem sem novas glosas nesta etapa: 1, 8, 53, 70, 81, 83, 91, 114, 120, 121, 126, 131 e 137. Isso não significa que esses salmos estejam sem formas hebraicas: vários já contêm nomes como YAHUAH, Elohim, Yisrael, Yerushalayim ou outros termos do vocabulário.
 
 ## Critério editorial
 
@@ -20,19 +20,19 @@ A redação portuguesa foi mantida sempre que possível. Em vez de substituir pa
 - louvor ou louvores (Hodayah)
 - Torah (instrução), quando o texto se refere à instrução divina.
 
-O inventário automatizado encontrou 173 glosas parentéticas dos termos hebraicos listados abaixo, distribuídas por 132 salmos. Além delas, foram incluídas duas notas explicativas de “Torah (instrução)” nos Salmos 1 e 19, totalizando 175 anotações terminológicas em 132 salmos.
+O inventário automatizado encontrou 179 glosas parentéticas dos termos hebraicos listados abaixo, distribuídas por 135 salmos. Além delas, foram incluídas duas notas explicativas de “Torah (instrução)” nos Salmos 1 e 19, totalizando 181 anotações terminológicas em 137 salmos.
 
 | Termo | Ocorrências parentéticas |
 |---|---:|
-| Tzedek | 49 |
+| Tzedek | 51 |
 | Kadosh | 36 |
 | Tefillah | 21 |
-| Hodayah | 23 |
+| Hodayah | 24 |
 | Chesed | 21 |
 | Ruach | 13 |
-| Brachah | 9 |
-| Emunah | 1 |
-| **Total de glosas parentéticas** | **173** |
+| Brachah | 11 |
+| Emunah | 2 |
+| **Total de glosas parentéticas** | **179** |
 
 ## Nomes e títulos divinos
 
@@ -52,4 +52,4 @@ As adaptações diretas de nomes divinos feitas anteriormente foram mantidas nos
 
 Esta é uma adaptação terminológica editorial, não uma nova tradução do hebraico nem uma revisão exegética independente de cada versículo. As transliterações e equivalências seguem o vocabulário fornecido pelo site, que observa que algumas formas são próprias da proposta do site e não são universais entre estudiosos.
 
-Os 18 salmos listados acima continuam elegíveis para revisão contextual adicional. Eles não receberam glosas novas nesta etapa porque não foi identificada uma correspondência suficientemente direta dentro das regras de anotação aplicadas. Não se deve inventar uma equivalência apenas para que todos os salmos tenham uma nota.
+Os 13 salmos listados acima continuam elegíveis para revisão contextual adicional. Eles não receberam glosas novas nesta etapa porque não foi identificada uma correspondência suficientemente direta dentro das regras de anotação aplicadas. Não se deve inventar uma equivalência apenas para que todos os salmos tenham uma nota.
